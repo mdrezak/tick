@@ -1,15 +1,9 @@
-add very much And Big validation to leaves edition
-fix Bugs (
-default ProductCodeType
-default Code
-default مشخصه فنی
-rename leaf
-input char in enter prop value
-validation bug
-)
-add Beautiful validation for very much field
-add validation for enter prop value and required props and check with regaxes
-scroll to invalid field after validation
-fix bug in edit leaf
-change relation between leaf and props to cascade
-and update database
+با سلام تیکت ارسالی 1401/10/19
+
+تعداد ساعات (8 ساعت )
+
+نصب sql server برای کار به صورت لوکال و افلاین 
+اصلاح برخی فرم ها از لحاظ مرزبندی و ظاهری
+یک تغییر جزئی در پنل ادمین در صفحه بررسی لیست درخواست های شرکت ها برای دوره های اموزشی
+انجام بیش از 14  مورد  دیگر از اصلاحات ماشین یار
+و اصلاحات ظاهری مربوط به مورد 4
